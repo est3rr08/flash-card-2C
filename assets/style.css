@@ -1,0 +1,19 @@
+body{
+    background-color: darkmagenta;
+    font-family: Bai jamjuree;
+}
+
+footer{
+     background-color: mediumorchid;
+     color: aliceblue;
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     height: 2rem;
+}
+
+footer p{
+    text-align: centerfont;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
